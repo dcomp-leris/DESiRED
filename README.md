@@ -10,7 +10,6 @@ DESiRED is a joint solution that leverages the In-band Network Telemetry and Dee
 # Folders
 ```console
 .
-├── evaluation # files used in the evaluation section
 ├── figs # figures
 ├── README.md
 └── source-code # DESiRED source code 
